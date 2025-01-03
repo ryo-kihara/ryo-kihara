@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://zenn.dev/ryo_kihara](https://zenn.dev/ryo_kihara)
 
-- 💬 Ask me about **React, Nest.js, AWS**
+- 💬 Ask me about **Next.js, React, AWS, Supabase**
 
 - 📫 How to reach me **work1008.rk@gmail.com**
 
